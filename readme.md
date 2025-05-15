@@ -62,10 +62,12 @@ We provide quick test code with the pretrained model.
 All logging files in the training process, *e.g.*, log message, checkpoints, and snapshots, will be saved to `./experiments` and `./tb_logger` directory.
 
 1. Modify the paths to dataset in the following yaml files for configuration.
-
+    ```bash
+    ./options/train/stage3_restoration_mse.yml
+    ```
 2. Train restoration network.
    ```bash
    # prepare the dataset path and pretrained model path in the following yaml
-   ./options/train/stage3_restoration_mse.yml
+   
    python mmsr/train.py -opt "options/train/stage3_restoration_mse.yml"
    ```
