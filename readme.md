@@ -36,8 +36,8 @@ Downloading the testing dataset from this [link](https://www.kaggle.com/datasets
     <img src='./figs/PlantRSR_testing5.png' width=2530>
 </div>
 
-### Pretrained Models
-Downloading the pretrained models from this [link](https://huggingface.co/youling2/PlantRSR/tree/main/trained_models) and put them under `experiments/pretrained_models folder`.
+### Pretrained Models and results
+The pretrained models from this [link](https://huggingface.co/youling2/PlantRSR/tree/main/trained_models) and the results from this [link](https://huggingface.co/youling2/PlantRSR/tree/main/results).
 
 ### Test
 
