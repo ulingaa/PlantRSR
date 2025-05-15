@@ -37,7 +37,7 @@ Downloading the testing dataset from this [link](https://www.kaggle.com/datasets
 </div>
 
 ### Pretrained Models
-Downloading the pretrained models from this [link](https://pan.baidu.com/s/1GUymA7t3eD1TqDVLUxNLZQ?pwd=f5cf) and put them under `experiments/pretrained_models folder`.
+Downloading the pretrained models from this [link](https://huggingface.co/youling2/PlantRSR/tree/main/trained_models) and put them under `experiments/pretrained_models folder`.
 
 ### Test
 
