@@ -29,11 +29,11 @@ Downloading the training dataset from this [link](https://www.kaggle.com/dataset
 Downloading the testing dataset from this [link](https://www.kaggle.com/datasets/a6fef9d2a40fce2c839e4160970d555fe08b7a8c1a7454a77d71b6f9108ee928) 
 
 <div align=center>
-<img src='./raw/main/figs/PlantRSR_testing1.png' width=2530>
-    <img src='./raw/main/figs/PlantRSR_testing2.png' width=2530>
-    <img src='./raw/main/figs/PlantRSR_testing3.png' width=2530>
-    <img src='./raw/main/figs/PlantRSR_testing4.png' width=2530>
-    <img src='./raw/main/figs/PlantRSR_testing5.png' width=2530>
+<img src='./figs/PlantRSR_testing1.png' width=2530>
+    <img src='./figs/PlantRSR_testing2.png' width=2530>
+    <img src='./figs/PlantRSR_testing3.png' width=2530>
+    <img src='./figs/PlantRSR_testing4.png' width=2530>
+    <img src='./figs/PlantRSR_testing5.png' width=2530>
 </div>
 
 ### Pretrained Models
