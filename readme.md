@@ -12,6 +12,7 @@ PlantRSR: A New Plant Dataset and Method for Reference-based Super-Resolution
 - CUDA 12.1
 - PyTorch >= 2.2.1
 - mamba-ssm >= 2.1.0
+- MinkowskiEngine >= 0.5.4
 
 ## Dataset Preparation
 
